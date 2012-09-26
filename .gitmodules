@@ -1,3 +1,6 @@
 [submodule "idaw-chapitre-1"]
 	path = idaw-chapitre-1
 	url = git@github.com:soixantecircuits/idaw-chapitre-1.git
+[submodule "idaw-chapitre-2"]
+	path = idaw-chapitre-2
+	url = git@github.com:gabrielstuff/idaw-chapitre-2.git
